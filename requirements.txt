@@ -1,8 +1,9 @@
-bentoml
-torchvison
+#bentoml
+torchvision
 joblib
 tqdm
 pip-chill
-wincertstore
+#wincertstore
+streamlit
 
--e .
+#-e .
